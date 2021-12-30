@@ -9,7 +9,8 @@ change-done by 1 team
 change for bug2
 
 one more WI5
-change for WI6 for local master to test normal push
+change for WI6 for local master to test normal push.
+change on local master for WI7
 
 another change on remote
 
